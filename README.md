@@ -12,3 +12,8 @@
 2. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Validar_fecha">Validar_fecha :</a>
    
     Pedir el dia, mes y anio de una fecha e indicar si la fecha es correcta. Suponiendo que todos los meses son de 30 dias. 
+
+
+3. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Calculadora_consola">Calculadora_consola :</a>
+   
+    Construir un programa que simule el comportamiento de una calculadora y que pueda realizar las cuatro operaciones aritmeticas basicas (suma,resta,multiplicacion y division). El usuario debe especificar la operacion con el primer caracter del primer parametro de la linea de comandos: S o s para la suma, R o r para la resta, M o m para la multiplicacion y D o d para la division.
