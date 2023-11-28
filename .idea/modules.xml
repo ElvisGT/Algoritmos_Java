@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algoritmos_Java.iml" filepath="$PROJECT_DIR$/.idea/Algoritmos_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora_consola/Calculadora_consola.iml" filepath="$PROJECT_DIR$/Calculadora_consola/Calculadora_consola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calcular_salario/Calcular_salario.iml" filepath="$PROJECT_DIR$/Calcular_salario/Calcular_salario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mostrar_Numeros/Mostrar_Numeros.iml" filepath="$PROJECT_DIR$/Mostrar_Numeros/Mostrar_Numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Validar_fecha/Validar_fecha.iml" filepath="$PROJECT_DIR$/Validar_fecha/Validar_fecha.iml" />
+    </modules>
+  </component>
+</project>
