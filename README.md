@@ -20,7 +20,7 @@
    
    Pedir un numero N, y mostrar todos los numeros del 1 al N
 
-5. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Mostrar_Numeros">Calificaciones de estudiantes :</a>
+5. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Calificaciones_estudiantes/src">Calificaciones de estudiantes :</a>
 
    Crear un programa en Java que permita gestionar las calificaciones de estudiantes en un curso. El programa debe utilizar matrices bidimensionales para almacenar las calificaciones de cada estudiante en diferentes asignaturas.
 
