@@ -1,6 +1,6 @@
 # Algoritmos_Java
 
-## En este repositorio voy a estar subiendo algoritmos en Java para darle solucion a los ejercicios del Curso de Java del canal de Youtube *Programacion ATS*
+## En este repositorio voy a estar subiendo algoritmos en Java para darle solucion a ejercicios practicos.
 
 ### A continuacion estan los ejercicios con el link a su solucion
 
@@ -19,3 +19,19 @@
 4. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Mostrar_Numeros">Mostrar Numeros :</a>
    
    Pedir un numero N, y mostrar todos los numeros del 1 al N
+
+5. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Mostrar_Numeros">Calificaciones de estudiantes :</a>
+
+   Crear un programa en Java que permita gestionar las calificaciones de estudiantes en un curso. El programa debe utilizar matrices bidimensionales para almacenar las calificaciones de cada estudiante en diferentes asignaturas.
+
+   **Requerimientos:**
+   
+   - Define una matriz bidimensional para almacenar las calificaciones de los estudiantes. La matriz debe tener un tamaño predefinido, por ejemplo, 5 estudiantes y 3 asignaturas.
+   
+   - Permite al usuario ingresar las calificaciones para cada estudiante y cada asignatura. Asegúrate de validar que las calificaciones ingresadas estén en el rango adecuado (por ejemplo, de 0 a 100).
+   
+   - Implementa una función que calcule el promedio de calificaciones para cada estudiante y para cada asignatura.
+   
+   - Muestra en pantalla la matriz de calificaciones y los promedios calculados.
+   
+   - Permite al usuario buscar la calificación más alta y más baja en toda la matriz, indicando qué estudiante y asignatura obtuvieron esas calificaciones.
