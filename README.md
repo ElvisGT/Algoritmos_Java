@@ -48,7 +48,7 @@
    
    En este programa llevamos el stock de una tienda de videojuegos donde podemos agrupar los juegos por plataforma, agregar y consultar los juegos, todo esto utilizando POO
 
-8. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Tienda_Videojuegos">Sistema de calificaciones :</a>
+8. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Sistema_Calificaciones/src">Sistema de calificaciones :</a>
    
    El objetivo del ejercicio es crear un sistema de calificaciones, como sigue:
 
