@@ -47,4 +47,27 @@
 8. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Tienda_Videojuegos">Programa para llevar stock de tienda de videojuegos :</a>
    
    En este programa llevamos el stock de una tienda de videojuegos donde podemos agrupar los juegos por plataforma, agregar y consultar los juegos, todo esto utilizando POO
+
+8. <a href="https://github.com/ElvisGT/Algoritmos_Java/tree/master/Tienda_Videojuegos">Sistema de calificaciones :</a>
+   
+   El objetivo del ejercicio es crear un sistema de calificaciones, como sigue:
+
+   El usuario proporcionará un valor entre 0 y 10.
+   
+   Si está entre 9 y 10: imprimir una A
+   
+   Si está entre 8 y menor a 9: imprimir una B
+   
+   Si está entre 7 y menor a 8: imprimir una C
+   
+   Si está entre 6 y menor a 7: imprimir una D
+   
+   Si está entre 0 y menor a 6: imprimir una F
+   
+   cualquier otro valor debe imprimir: Valor desconocido
+   
+   Por ejemplo:
+   
+   Proporciona un valor entre 0 y 10:
+   A
   
